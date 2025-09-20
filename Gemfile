@@ -17,3 +17,4 @@ group :development, :test do
   gem 'test-unit', '~>3.3'
   gem 'tomlrb'
 end
+gem 'rack'
