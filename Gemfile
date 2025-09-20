@@ -18,3 +18,4 @@ group :development, :test do
   gem 'tomlrb'
 end
 gem 'rack'
+gem 'rackup'
